@@ -10,10 +10,10 @@ Html basic code..   "Easy peasy"
 <! DOCTYPE html>
 <html>
  <head>
-<title> My new web page </title>
+<title> LEARN something NEW </title>
 </head>
 <body>
-<h1> “ HTML BASICS” </h1>
+<h1> “ THAT'S HTML” </h1>
 <p>  Hypertext markup language is the abbreviated form of html.Holds content and design elements for a website
 </p>
 <h2> “IMPORTANCE OF HTML”</h2>

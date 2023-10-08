@@ -3,14 +3,9 @@
 
 
 
-# hey hi
-Html basic code..   "Easy peasy"
+# hey hi 👋 
 
-
-<! DOCTYPE html>
-<html>
- <head>
-<title> LEARN something NEW </title>
+LEARN something NEW📝🖌️ 
 </head>
 <body>
 <h1> “WHAT IS A HTML?” </h1>
